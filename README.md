@@ -2,6 +2,7 @@
 Box scores from the career of Bill Russell with the Boston Celtics
 
 This project began many years ago, before the Basketball-Reference.com site included NBA box scores. I am storing these files on Github for future safe-keeping.
+The data in this folder corresponds to Version 3.8 of Bill Russell era-archive that I posted on June 29, 2014 at https://michaelhamel.net/boxtop-russell/
 
 HISTORY
 
@@ -37,7 +38,7 @@ BOXTOP format
 
 The BOXTOP format is loosely based on Retrosheet’s “Box Score Event Files” (BSEF) format, which is essentially a comma-separated file (.csv) format. More details are included in the .zip archive. Several perl scripts have been written to make data entry faster and to verify the box scores for accuracy. Each box score is checked for internal consistency, such as whether (FGM * 2) + FTM = the number of points scored, and then the entire season is checked for consistency of the Boston Celtics data, since I only have Celtics box scores at this point. All errors reported by these scripts are included in the Report files available above. Examples of the tools are included in the .zip archive.
 
-Contributors
+CONTRIBUTORS
 
 Matthew Shuh
 
