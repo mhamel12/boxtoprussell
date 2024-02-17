@@ -46,13 +46,27 @@ Matthew Shuh
 MAJOR REFERENCES
 
 Boston Celtics Yearbooks
+
 Boston Globe, Boston Herald, Boston Record-American
+
 New York Times
+
 The Sporting News at Paper of Record (free for SABR members)
+
 Basketball-Reference.com
+
 Game 7 by Bill Woten
+
 NBA Referees
+http://www.nbahoopsonline.com/History/Year/refs/index.html
+
 NBA Referees on apbr.org
+http://apbr.org/forum/viewtopic.php?p=14021
+
 NBA Referees 1946-
+http://www.phillyref.com/basketball/nbarefs/nbarefhistory.html
+
 NBA Finals Box Scores
+http://webuns.chez-alice.fr/home.htm
+
 NBAStats.net
